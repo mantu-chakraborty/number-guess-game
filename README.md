@@ -13,6 +13,6 @@ A simple Python project where the player guesses a randomly generated number bet
 python new.py
 
 
-**Commit new file**
+
 
 
